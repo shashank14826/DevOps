@@ -1,2 +1,6 @@
 merge conflict
-after conflict
+<<<<<<< HEAD
+after branching
+=======
+after branching
+>>>>>>> temp
